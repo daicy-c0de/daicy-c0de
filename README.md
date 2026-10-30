@@ -6,11 +6,7 @@
 - 🧩 bring-your-own-solver: tools-nya shell-nya aja, solver/captcha lu sediain sendiri
 - 🌐 [daicyz.dev](https://daicyz.dev)
 
-#### stack
-`python` `bash` `js` `docker` `automation` `osint` `web-security`
-
-#### stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=daicy-c0de&show_icons=true&hide_border=true&count_private=true)
-![Streak](https://streak-stats.demolab.com?user=daicy-c0de&hide_border=true)
+#### aktifitas
+repo lanjutan menyusul — watch ⭐ kalo mau ngikutin.
 
 <!-- daicy-c0de/daicy-c0de profile README -->
