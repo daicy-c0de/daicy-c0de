@@ -1,16 +1,16 @@
-## Hi there 👋
+### hai, saya Daicy C0de 👾
 
-<!--
-**daicy-c0de/daicy-c0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Automation / account factory / security tooling — building in public.
 
-Here are some ideas to get you started:
+- 🔭 sekarang: [botkeep.cloud-farm](https://github.com/daicy-c0de/botkeep.cloud-farm) — account farm + autoretry server allocation
+- 🧩 bring-your-own-solver: tools-nya shell-nya aja, solver/captcha lu sediain sendiri
+- 🌐 [daicyz.dev](https://daicyz.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### stack
+`python` `bash` `js` `docker` `automation` `osint` `web-security`
+
+#### stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=daicy-c0de&show_icons=true&hide_border=true&count_private=true)
+![Streak](https://streak-stats.demolab.com?user=daicy-c0de&hide_border=true)
+
+<!-- daicy-c0de/daicy-c0de profile README -->
